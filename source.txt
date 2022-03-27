@@ -1,0 +1,5 @@
+nominal yield curve source
+https://www.federalreserve.gov/data/nominal-yield-curve.htm
+
+tips and inflation compensation curve
+https://www.federalreserve.gov/data/tips-yield-curve-and-inflation-compensation.htm
